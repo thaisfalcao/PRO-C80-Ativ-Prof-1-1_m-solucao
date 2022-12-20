@@ -241,7 +241,9 @@ export default class TransactionScreen extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#FFFFFF"
+    justifyContent: "center",
+    alignItems: "center",
+    backgroundColor: "#5653D4"
   },
   bgImage: {
     flex: 1,
